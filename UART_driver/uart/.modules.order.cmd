@@ -1,0 +1,1 @@
+cmd_/home/engineer/practice_files/kernel_modules/UART_driver/uart/modules.order := {   echo /home/engineer/practice_files/kernel_modules/UART_driver/uart/simpserial.ko; :; } | awk '!x[$$0]++' - > /home/engineer/practice_files/kernel_modules/UART_driver/uart/modules.order

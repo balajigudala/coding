@@ -1,0 +1,1 @@
+cmd_/home/engineer/practice_files/kernel_modules/kernel_threads/new.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/engineer/practice_files/kernel_modules/kernel_threads/new.ko /home/engineer/practice_files/kernel_modules/kernel_threads/new.o /home/engineer/practice_files/kernel_modules/kernel_threads/new.mod.o;  true

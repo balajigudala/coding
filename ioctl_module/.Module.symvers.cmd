@@ -1,0 +1,1 @@
+cmd_/home/engineer/practice_files/kernel_modules/ioctl_module/Module.symvers := sed 's/ko$$/o/' /home/engineer/practice_files/kernel_modules/ioctl_module/modules.order | scripts/mod/modpost -m -a   -o /home/engineer/practice_files/kernel_modules/ioctl_module/Module.symvers -e -i Module.symvers   -T -

@@ -1,0 +1,1 @@
+cmd_/home/engineer/practice_files/kernel_modules/kernel_threads/new.mod := { echo  /home/engineer/practice_files/kernel_modules/kernel_threads/new.o;  echo; } > /home/engineer/practice_files/kernel_modules/kernel_threads/new.mod
